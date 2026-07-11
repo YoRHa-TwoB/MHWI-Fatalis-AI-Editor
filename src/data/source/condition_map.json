@@ -1,0 +1,11 @@
+{
+  "function#5D()": "黑龙丢失敌人视野时",
+  "function#10C()": "未知条件10C()",
+  "function#102(3)": "在一阶段瓦砾里时",
+  "function#102(2)": "未知条件102(2)",
+  "function#109()": "未知条件109()",
+  "function#114()": "应该是捕食成功的条件",
+  "function#10F()": "与捕食成功有关的条件",
+  "self.target.pinned()": "目标被固定(捕食后动不了)",
+  "self.target.helpless_1()": "目标硬直中"
+}
