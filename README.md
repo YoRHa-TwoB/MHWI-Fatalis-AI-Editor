@@ -60,7 +60,7 @@ GNU General Public License v3.0 — 本项目包含 [Leviathon](https://github.c
 ## 后续计划 / Roadmap
 
 - [ ] 更多怪物支持
-- [ ] 招式预览功能
+- [ ] 单招编辑
 - [ ] 条件可视化编辑
 
 欢迎提交 [Issue](../../issues) 反馈问题或功能建议，也欢迎 Pull Request。
