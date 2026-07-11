@@ -55,7 +55,7 @@ pyinstaller --onefile --windowed \
 
 ## 许可证 / License
 
-GNU General Public License v3.0 — 本项目包含 [Leviathon](https://github.com/Hooman113/Leviathon) 编译器的 GPL v3 代码。
+GNU General Public License v3.0 — 本项目包含 [Leviathon](https://github.com/AsteriskAmpersand/Leviathon) 编译器的 GPL v3 代码。
 
 ## 声明 / Disclaimer
 
