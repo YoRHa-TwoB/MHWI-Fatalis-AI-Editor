@@ -57,6 +57,19 @@ pyinstaller --onefile --windowed \
 
 GNU General Public License v3.0 — 本项目包含 [Leviathon](https://github.com/AsteriskAmpersand/Leviathon) 编译器的 GPL v3 代码。
 
-## 声明 / Disclaimer
+## 后续计划 / Roadmap
 
-仅供研究学习使用，严禁用于竞速作弊。
+- [ ] 更多怪物支持
+- [ ] 招式预览功能
+- [ ] 条件可视化编辑
+
+欢迎提交 [Issue](../../issues) 反馈问题或功能建议，也欢迎 Pull Request。
+
+## 免责声明
+
+本项目为社区制作的免费开源工具，仅供学习交流使用。
+
+- Monster Hunter: World 及所有相关商标、角色、素材版权归 CAPCOM Co., Ltd. 所有
+- 本工具与 CAPCOM 无任何关联，亦未获得 CAPCOM 认可或授权
+- 使用本工具产生的一切后果由用户自行承担
+- 内置编译器来自 [Leviathon](https://github.com/AsteriskAmpersand/Leviathon)（GPL v3）
