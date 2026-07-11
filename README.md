@@ -10,6 +10,12 @@ Monster Hunter World Fatalis AI Editor — a visual tool for editing the Fatalis
 - 内置编译器，一键导出 `.thk` 并部署到游戏目录
 - 暗色 MH 主题 UI
 
+## 截图 / Screenshots
+
+![主界面](images/editor.png)
+
+![启动界面](images/launcher.png)
+
 ## 快速开始 / Quick Start
 
 ### 直接使用（推荐）
